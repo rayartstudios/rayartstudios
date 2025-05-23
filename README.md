@@ -1,8 +1,8 @@
-# 👨‍💻 Rayyan Karkhyle
+# 👨‍💻 Ryan
 
 ### Code. Build. Repeat.
 
-I'm Rayyan — a developer who doesn't chase trends. I learn fast, ship faster, and break things just to rebuild them better. Currently diving deep into:
+I'm Ryan — a developer who doesn't chase trends. I learn fast, ship faster, and break things just to rebuild them better. Currently diving deep into:
 
 - 🧠 **AI/ML + Game Dev + IoT**
 - 🛠 Unreal Engine Geek
