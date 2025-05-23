@@ -21,7 +21,7 @@ I'm Rayyan — a developer who doesn't chase trends. I learn fast, ship faster, 
 ---
 
 ### 🛠 Languages & Tools
-`Python` | `C` | `C++` | `JavaScript` | `HTML/CSS` | `Linux` | `Godot` | `Unity (C#)` | `Arduino` | `Firebase` | `Git`
+`Python` | `C` | `C++` | `JavaScript` | `HTML/CSS` | `Linux` | `Godot` | `Unity (C#)` | `Unreal Engine (Blueprints)` | `Arduino` | `Raspberry Pi` | `Git`
 
 > I’m not here to make perfect code. I’m here to make things that work — and learn from the stuff that doesn’t.
 
